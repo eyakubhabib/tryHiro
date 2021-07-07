@@ -1,0 +1,165 @@
+body {
+  font-family: "Lato", sans-serif;
+  color: hsl(0deg 0% 34%);
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 20px;
+  text-align: justify;
+}
+hr {
+  font-size: 20px;
+  text-align: justify;
+}
+.first-para {
+  margin: 30px 0px 50px;
+}
+a {
+  text-decoration: none;
+  background-image: linear-gradient(hsl(9deg 99% 59%), hsl(23deg 97% 64%));
+  padding: 16px 35px;
+  border-radius: 50px;
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  box-shadow: 1px 1px 15px hsl(23deg 97% 64%);
+  margin: 10px 0 10px 0;
+}
+.top-banner {
+  display: flex;
+}
+.paradise {
+  margin-top: 70px;
+}
+.half-width {
+  width: 50%;
+  padding: 60px;
+}
+.half-width img {
+  width: 100%;
+}
+.highlightsText {
+  color: hsl(23deg 97% 64%);
+  text-transform: uppercase;
+  font-weight: 800px;
+}
+.secend-banner {
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  padding: 20px 100px 10px 100px;
+}
+.drink img {
+  width: 80%;
+}
+.half-widthsec {
+  width: 50%;
+}
+.about {
+  margin-top: 100px;
+}
+.button {
+  margin-top: 50px;
+}
+.SectionThree {
+  display: flex;
+  background-image: url(images/Frame60.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.SectionExtra {
+  display: flex;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.three-image {
+  padding-right: 200px;
+  margin-top: 50px;
+}
+.three-image img {
+  width: 100%;
+  margin-left: -100px;
+}
+.stockLimitad p {
+  text-align: center;
+}
+.stockLimitad {
+  margin-top: 150px;
+  text-align: center;
+  margin-left: 17px;
+}
+.SectionFour {
+  padding: 70px 100px;
+}
+.SecFourExtra {
+  background-color: hsl(0deg 0% 97%);
+}
+.food-present img {
+  width: 100%;
+  border-radius: 15px;
+}
+.FoodAllPresen {
+  display: flex;
+}
+.food-present {
+  background-color: rgb(255, 255, 255);
+  margin: 25px;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: 1px 1px 30px rgb(134 134 134 / 36%);
+}
+.Allfood-presNum {
+  box-shadow: 1px 1px 30px rgb(134 134 134 / 36%);
+  border-radius: 20px;
+  margin: 50px 25px;
+}
+.food-presentNumber {
+  text-align: center;
+  padding: 30px 109px;
+  font-size: 15px;
+}
+.social {
+  font-size: 19px;
+}
+.footer {
+  text-align: center;
+  background-color: #131010;
+  padding: 30px 0 5px;
+}
+.footerText {
+  text-align: center;
+}
+.gellary-section {
+  padding: 100px 100px;
+  height: 500px;
+  background-color: hsl(0deg 0% 97%);
+}
+.allGallary {
+  display: flex;
+}
+.gellaryLeft {
+  width: 50%;
+  margin: 10px;
+  display: flex;
+  width: 50%;
+}
+.gellaryRight {
+  width: 50%;
+  margin: 10px;
+  padding: 50px 0 0 100px;
+}
+.singlegellary img {
+  border: 3px solid hsl(23deg 97% 64%);
+  width: 100%;
+}
+/*
+color used 
+hsl(0deg 0% 34%);
+hsl(23deg 97% 64%);
+*/ ;
